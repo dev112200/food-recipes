@@ -1,0 +1,19 @@
+.card{
+    height: 200px;
+    width: 18%;
+    border: 1.5px solid black;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 0.5vw;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
+}
+img{
+    height: 65%;
+    width: 100%;
+}
+button:hover{
+    cursor: pointer;
+}
